@@ -1,0 +1,15 @@
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Debug\Radio Pochete.exe.config
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Debug\Radio Pochete.exe
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Debug\Radio Pochete.pdb
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio Pochete.csprojAssemblyReference.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio_Pochete.Form1.resources
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio_Pochete.Properties.Resources.resources
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio Pochete.csproj.GenerateResource.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio Pochete.csproj.CoreCompileInputs.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio Pochete.exe
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio Pochete.pdb
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Debug\Interop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Interop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Debug\Radio Pochete.csproj.ResolveComReference.cache

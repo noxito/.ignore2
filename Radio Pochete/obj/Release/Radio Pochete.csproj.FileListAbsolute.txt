@@ -1,0 +1,30 @@
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Release\Radio Pochete.exe.config
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Release\Radio Pochete.exe
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Release\Radio Pochete.pdb
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Release\Interop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csprojAssemblyReference.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Interop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csproj.ResolveComReference.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio_Pochete.Form1.resources
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio_Pochete.Properties.Resources.resources
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csproj.GenerateResource.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csproj.CoreCompileInputs.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.exe
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.pdb
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\bin\Release\Radio Pochete.exe.config
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\bin\Release\Radio Pochete.exe
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\bin\Release\Radio Pochete.pdb
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\bin\Release\Interop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csprojAssemblyReference.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Interop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csproj.ResolveComReference.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio_Pochete.Form1.resources
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio_Pochete.Properties.Resources.resources
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csproj.GenerateResource.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.csproj.CoreCompileInputs.cache
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.exe
+C:\Users\Wille\Desktop\Radio Pochete\Radio Pochete\obj\Release\Radio Pochete.pdb
