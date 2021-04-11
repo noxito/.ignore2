@@ -2,7 +2,7 @@
 
 # Radio Pochete - Desktop Windows app
 
-## The official Radio Pochete (http://radiopochete.ga) to Windows. Using .NET Framework 4.8.
+## The official Radio Pochete (http://radiopochete.ga) for Windows. Using .NET Framework 4.8.
 
 
 ```
